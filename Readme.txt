@@ -1,0 +1,1 @@
+In this code, a set of differential equations is solved using the ode45 function in MATLAB.
